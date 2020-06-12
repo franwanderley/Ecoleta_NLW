@@ -1,0 +1,13 @@
+NODEJS
+npm run dev //Para executar o servidor
+
+REACT
+npm start //para rodar o servidor
+
+REACT MOBILE
+npm install -g expo-cli // Para instalar o expo
+expo init mobile //Para criar a pasta
+npm start //Para rodar no servidor
+===============================================================
+npm i -g create-react-native-app //Instalar o react native
+create-react-native-app mobile //criar o projeto

@@ -1,0 +1,50 @@
+
+
+.content {
+    width: 80%;
+    height: 80%;
+
+}
+svg{
+    color : royalblue;
+
+}
+.sucess {
+    background-color: black;
+    width: 50%;
+    margin-left: 25%;
+    justify-content: center;
+    padding: 10%;
+    color : #fff;
+}
+.sucess svg{
+    font-size: 200%;
+    text-align: center;
+    margin: 3% 40%;
+}
+.sucess h3{
+    width: 150%;
+}
+
+header {
+    margin-top: 48px;
+    display: flex;
+    width: 80%;
+    margin: 5% 10%;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+   header .a {
+    color: var(--title-color);
+    font-weight: bold;
+    text-decoration: none;
+  
+    display: flex;
+    align-items: center;
+  }
+  
+   header .a svg {
+    margin-right: 16px;
+    color: var(--primary-color);
+  }
