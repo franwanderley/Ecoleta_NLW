@@ -1,6 +1,6 @@
  <h1>Ecoleta NLW -- RocketSeat</h1>
  <p>Sistema para encontrar pontos de coleta de lixo perto de voçe e jogar-lo corretamente</p>
- <img src="https://github.com/franwanderley/Ecoleta_NLW/blob/master/Ecoleta%20NLW%20RocketSeat.png" alt="Prints do Ecoleta">
+ <img src="https://github.com/franwanderley/Ecoleta_NLW/blob/master/Ecoleta%20NLW%20RocketSeat_Easy-Resize.com%20(1).jpg" alt="Prints do Ecoleta">
 
  <h3>
     <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> 
