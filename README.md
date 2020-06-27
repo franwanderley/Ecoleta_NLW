@@ -11,6 +11,7 @@
      <li>React</li>
      <li>React Native</li>
      <li>Expo Cli</li>
+     <li/>SQLite</li>
  </ul>
 
  <h3>Usar no seu PC</h3>
@@ -20,8 +21,8 @@
     <li>git clone https://github.com/franwanderley/Ecoleta_NLW.git</li>
     <li>cd server</li>
     <li>npm install</li>
-    <li>yarn knex:migrate</li>
-    <li>yarn knex:seed</li>
+    <li>npm knex:migrate(Criar o banco de Dados)</li>
+    <li>npm knex:seed(insere no banco</li>
     <li>npm start</li>
     <strong>Depois é só acessar em seu navegador localhost:3333/</strong>
 </ul>
