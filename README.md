@@ -2,6 +2,7 @@
  <p>Sistema para encontrar pontos de coleta de lixo perto de voçe e jogar-lo corretamente</p>
  <img src="https://github.com/franwanderley/Ecoleta_NLW/blob/master/Ecoleta%20NLW%20RocketSeat_Easy-Resize.com%20(1).jpg" alt="Prints do Ecoleta">
 
+
  <h3>
     <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> 
     Tecnologias Usadas</h3>
@@ -17,6 +18,7 @@
  <h3>Usar no seu PC</h3>
  <h4>Back-End</h4>
 <ul>
+    <li>Baixar o Nodejs e o npm</li>
     <li>cd 'seu diretorio'</li>
     <li>git clone https://github.com/franwanderley/Ecoleta_NLW.git</li>
     <li>cd server</li>
