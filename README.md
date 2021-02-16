@@ -1,6 +1,5 @@
- <h1>Ecoleta NLW -- RocketSeat</h1>
+ <h1><a href="https://ecoleta-reactjs.herokuapp.com">Ecoleta NLW -- RocketSeat</a></h1>
  <p>Sistema para encontrar pontos de coleta de lixo perto de voçe e jogar-lo corretamente</p>
- <a href="https://ecoleta-reactjs.herokuapp.com">Ecoleta</a>
  <img src="https://github.com/franwanderley/Ecoleta_NLW/blob/master/Ecoleta%20NLW%20RocketSeat_Easy-Resize.com%20(1).jpg" alt="Prints do Ecoleta">
 
 
