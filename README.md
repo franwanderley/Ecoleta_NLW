@@ -1,4 +1,4 @@
- <h1><a href="https://ecoleta-reactjs.herokuapp.com">Ecoleta NLW -- RocketSeat</a></h1>
+ <h1><a href="https://ecoleta-reactjs.herokuapp.com">Ecoleta NLW RocketSeat</a></h1>
  <p>Sistema para encontrar pontos de coleta de lixo perto de voçe e jogar-lo corretamente</p>
  <img src="https://github.com/franwanderley/Ecoleta_NLW/blob/master/Ecoleta%20NLW%20RocketSeat_Easy-Resize.com%20(1).jpg" alt="Prints do Ecoleta">
 
@@ -32,6 +32,7 @@
 <h4>Front-End</h4>
 <ul>
     <li>cd 'seu diretorio'</li>
+    <li>git clone https://github.com/franwanderley/Ecoleta_NLW.git</li>
     <li>cd web</li>
     <li>npm install</li>
     <li>npm start</li>
@@ -41,6 +42,7 @@
 <h4>Mobile</h4>
 <ul>
     <li>cd 'seu diretorio'</li>
+    <li>git clone https://github.com/franwanderley/Ecoleta_NLW.git</li>
     <li>cd mobile</li>
     <li>npm install</li>
     <li>npm start</li>
