@@ -15,8 +15,8 @@
      <li/>SQLite</li>
  </ul>
 
- <h3>Usar no seu PC</h3>
- <h4>Back-End</h4>
+ <h3>💻 Usar no seu PC</h3>
+ <h4> Back-End</h4>
 <ul>
     <li>Baixar o Nodejs e o npm</li>
     <li>cd 'seu diretorio'</li>
